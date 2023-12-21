@@ -1,5 +1,6 @@
 # Shopping Cart Project
 This project is a simple implementation of a shopping cart, allowing users to adjust item quantities, delete items, like items, and view the total price.
+
 The project is implemented using HTML, CSS3 and JS technologies.
 
 ## Features
